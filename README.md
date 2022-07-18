@@ -1,4 +1,5 @@
-full-stack developer with backgrounds in API design & development, microservices, databases, cloud-native, & serverless computing, NLP/ML, & fuzzing
+full-stack developer with backgrounds in API & UI development, micro-services, databases, fuzzing, NLP & ML, UX design &
+research, and cloud-native & bare-metal multi-tenant computing systems
 
 - 🔭 daily        : `.py`, `.js`, `.html`, `.css`, `.go`, `.hs`, `.ts`, `.mk`, `*k8s`, `.docker`
 - 🚡 active       : **EST/PST**
