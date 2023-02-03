@@ -1,6 +1,6 @@
 developer with backgrounds in API & UI development, microservices, databases, fuzzing, NLP & ML, event-driven programming, and cloud-native & bare-metal multi-tenant systems
 
-🔭 daily
+🔭 `[daily]`
 
 - `.py`
 - `.js`
@@ -11,16 +11,18 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `.hs`
 - `.mk`
 - `*k8s`
-- `.docker`
+- `*docker`
 
+🚡 `[active]`       : **GMT/EST/PST**
 
-🚡 active       : **EST/PST**
-
-🐿 learning
+🐿 `[learning]`
 
 - `Go`
 - `Haskell`
 - `TypeScript`
 - `WebAssembly`
+- `Docker Swarm`
 - `Helm`
 - `K8s`
+
+🍜 [[resume]](https://github.com/a6enez3r/portfolio/blob/main/src/static/resume/resume.pdf)
