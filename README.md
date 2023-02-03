@@ -2,27 +2,38 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 
 🔭 `[daily]`
 
-- `.py`
-- `.js`
-- `.ts`
-- `.html`
 - `.css`
+- `*docker`
 - `.go`
 - `.hs`
-- `.mk`
+- `.html`
+- `.js`
 - `*k8s`
-- `*docker`
+- `.mk`
+- `.py`
+- `.ts`
 
-🚡 `[active]`       : **GMT/EST/PST**
+
+🚡 `[active]` : **GMT/EST/PST**
 
 🐿 `[learning]`
 
+- `Docker`
 - `Go`
 - `Haskell`
-- `TypeScript`
-- `WebAssembly`
-- `Docker Swarm`
-- `Helm`
 - `K8s`
+- `Python`
+- `React (JavaScript + TypeScript)`
+- `Rust`
+- `WebAssembly`
+
+🐿 `[topics]`
+
+- `distributed systems`
+- `databases`
+- `distributed ledgers`
+- `data processing pipelines`
+- `fuzzing`
+
 
 🍜 [[resume]](https://github.com/a6enez3r/portfolio/blob/main/src/static/resume/resume.pdf)
