@@ -5,7 +5,6 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `.css`
 - `*docker`
 - `.go`
-- `.hs`
 - `.html`
 - `.js`
 - `*k8s`
