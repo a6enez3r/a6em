@@ -17,12 +17,15 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 
 🐿 `[learning]`
 
+- `CSS`
 - `Docker`
 - `Go`
 - `Haskell`
-- `K8s`
+- `JavaScript`
+    - `React`
+    - `Node`
+- `Kubernetes`
 - `Python`
-- `React (JavaScript + TypeScript)`
 - `Rust`
 - `WebAssembly`
 
