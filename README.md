@@ -36,6 +36,7 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `distributed ledgers`
 - `data processing pipelines`
 - `fuzzing`
+- `responsive UIs`
 
 
 🍜 [[resume]](https://github.com/a6enez3r/portfolio/blob/main/src/static/resume/resume.pdf)
