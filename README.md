@@ -29,7 +29,7 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `Rust`
 - `WebAssembly`
 
-🐊 `[topics]`
+🐊 `[interests]`
 
 - `distributed systems`
 - `databases`
