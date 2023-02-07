@@ -39,7 +39,7 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `data processing pipelines`
 - `responsive UIs`
 
-🍹 `[moments]`
+🍹 `[memories]`
 
 ```geojson
 {
