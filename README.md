@@ -14,7 +14,7 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `.py`
 - `.ts`
 
-🚡 `[active]` : **GMT/EST/PST**
+🚡 `[active]` : **EAT/GMT/EST/PST**
 
 🐿 [[learning]](https://a6enez3r.github.io/til/)
 
@@ -32,12 +32,9 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 
 🐊 `[interests]`
 
+- `fuzzing`
 - `distributed systems`
 - `databases`
 - `distributed ledgers`
 - `data processing pipelines`
-- `fuzzing`
 - `responsive UIs`
-
-
-
