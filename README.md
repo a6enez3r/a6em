@@ -14,7 +14,7 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `.py`
 - `.ts`
 
-🚡 `[active]` : **EAT/GMT/EST/PST**
+🚡 `[active]` :- **EAT/GMT/EST/PST**
 
 🐿 [[learning]](https://a6enez3r.github.io/til/)
 
