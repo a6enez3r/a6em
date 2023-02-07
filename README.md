@@ -1,5 +1,7 @@
 developer with backgrounds in API & UI development, microservices, databases, fuzzing, NLP & ML, event-driven programming, and cloud-native & bare-metal multi-tenant systems
 
+🍜 [[resume]](https://github.com/a6enez3r/portfolio/blob/main/src/static/resume/resume.pdf)
+
 🔭 `[daily]`
 
 - `.css`
@@ -12,10 +14,9 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `.py`
 - `.ts`
 
-
 🚡 `[active]` : **GMT/EST/PST**
 
-🐿 `[learning]`
+🐿 [[learning]](https://a6enez3r.github.io/til/)
 
 - `CSS`
 - `Docker`
@@ -39,4 +40,4 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `responsive UIs`
 
 
-🍜 [[resume]](https://github.com/a6enez3r/portfolio/blob/main/src/static/resume/resume.pdf)
+
