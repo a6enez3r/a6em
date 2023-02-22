@@ -1,8 +1,6 @@
 developer with backgrounds in API & UI development, microservices, databases, fuzzing, NLP & ML, event-driven programming, and cloud-native & bare-metal multi-tenant systems
 
-[📷 TIL](https://a6enez3r.github.io/a6enez3r/) | [📕 Email](mailto:hi@abenezer.sh)
-
-🍜 [[resume]](https://github.com/a6enez3r/portfolio/blob/main/src/static/resume/resume.pdf)
+[📕 TIL](https://a6enez3r.github.io/til/) | [📮 Email](mailto:hi@abenezer.sh) | 🍜 [resume](https://github.com/a6enez3r/portfolio/blob/main/src/static/resume/resume.pdf)
 
 🔭 `[daily]`
 
@@ -39,4 +37,5 @@ developer with backgrounds in API & UI development, microservices, databases, fu
 - `databases`
 - `distributed ledgers`
 - `data processing pipelines`
-- `responsive UIs`
+- `responsive & mobile first UIs`
+- `data engineering`
