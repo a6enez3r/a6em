@@ -1,7 +1,7 @@
 developer with backgrounds in API & UI development, microservices, databases, fuzzing, NLP & ML,
 event-driven programming, and cloud-native & bare-metal multi-tenant systems
 
-[📕 TIL](https://a6enez3r.github.io/snippets/) | [📮 Email](mailto:hi@abenezer.sh) | 🍜 [Resume](https://github.com/a6enez3r/portfolio/blob/main/src/static/resume/resume.pdf) | 🥂 [LinkedIn](https://www.linkedin.com/in/a6enez3r/)
+[📮 Email](mailto:dev@abe.expert) | 🍜 [LinkedIn](https://www.linkedin.com/in/a6em/)
 
 🔭 `[daily]` :- `.css`, `*docker`, `.go`, `.html`, `.js`, `*k8s`, `.mk`, `.py`, `.ts`, `.ansible`, `.vagrant`
 
