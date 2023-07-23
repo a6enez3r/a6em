@@ -7,7 +7,7 @@ event-driven programming, and cloud-native & bare-metal multi-tenant systems
 
 🚡 `[active]` :- **EAT/GMT/EST/PST**
 
-🐿 [[learning]](https://a6enez3r.github.io/snippets/)
+🐿 [learning]
 
 `languages` :- `Python`, `Go`, `JS`, `React`, `C++`, `Haskell`, `CSS`, `JavaScript`, `Kubernetes`
 `topics` :- `networking`, `compilers`, `machine learning`, `embedded`, `databases`, `pen testing`
