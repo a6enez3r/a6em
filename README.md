@@ -1,6 +1,3 @@
-developer with backgrounds in API & UI development, microservices, databases, fuzzing, NLP & ML,
-event-driven programming, and cloud-native & bare-metal multi-tenant systems
-
 [📮 Email](mailto:dev@abe.expert) | 🍜 [LinkedIn](https://www.linkedin.com/in/a6em/)
 
 🔭 `[daily]` :- `.css`, `*docker`, `.go`, `.html`, `.js`, `*k8s`, `.mk`, `.py`, `.ts`, `.ansible`, `.vagrant`
